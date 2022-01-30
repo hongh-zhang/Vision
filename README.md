@@ -20,7 +20,11 @@ Mice pose estimation using methods discussed in [Mathis et al., 2020](https://ar
 
 Snout position estimation (Refresh the page if it's not synchronous)
 
-Heatmap localization, video labelling... working in progress
+![alt text](https://github.com/hongh-zhang/Vision/blob/main/mice/labelled.gif "Labelled video")
+
+[Full video labeling](https://github.com/hongh-zhang/Vision/blob/main/mice/labelled_v1.mp4)
+
+Refining...
 
 ##
-(everything coded in colab)
+~~(everything coded in colab)~~ till i reached gpu usage limit
