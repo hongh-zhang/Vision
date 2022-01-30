@@ -15,11 +15,12 @@ Network learning to label membrane
 
 Mice pose estimation using methods discussed in [Mathis et al., 2020](https://arxiv.org/abs/2009.00564). 
 
-![alt text](https://github.com/hongh-zhang/Vision/blob/main/mice/video.gif "Raw video") 
-![alt text](https://github.com/hongh-zhang/Vision/blob/main/mice/snout.gif "Estimated snout position") 
+![alt text](https://github.com/hongh-zhang/Vision/blob/main/mice/data/video.gif "Raw video") 
+![alt text](https://github.com/hongh-zhang/Vision/blob/main/mice/data/snout.gif "Estimated snout position") 
 
 Snout position estimation (Refresh the page if it's not synchronous)
 
-Validation, heatmap localization, video labelling... working in progress
+Heatmap localization, video labelling... working in progress
 
 ##
+(everything coded in colab)
